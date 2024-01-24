@@ -1,7 +1,6 @@
-# Project Title
+# Coding skill assignment
 
 This is React test Assignment by Q
-Coding skill assignment
 
 ## Build/Run
 
