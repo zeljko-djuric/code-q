@@ -7,7 +7,7 @@ const LogHello = (WrappedComponent, { componentDisplayName } = {}) => {
       if (componentDisplayName) {
         console.log(`Hello from ${componentDisplayName}`);
       }
-    }, [componentDisplayName]);
+    }, []);
 
     return <WrappedComponent {...props} />;
   };
